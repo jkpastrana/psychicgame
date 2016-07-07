@@ -1,0 +1,2 @@
+# psychicgame
+JS game
