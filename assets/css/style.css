@@ -1,0 +1,22 @@
+#game{
+
+text-align: left;
+color: white; 
+padding: 4%;
+padding-left: 40%;
+padding-top: 5.5%;
+
+}
+body{
+
+	background-color: black;
+}
+
+h3{
+
+	font-size: 40px;
+}
+p{
+
+	font-size: 20px;
+}
